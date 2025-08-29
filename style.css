@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+}
+
+#logo img {
+    width: 15vw;
+}
+
+#faster {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 10vh;
+    align-items: center;
+}
+
+#logo {
+    margin-left: 5vh;
+}
+
+#Botão {
+padding: 7px;
+background-color: orangered;
+color: white;
+border: none;
+margin-right: 5vw;
+cursor: pointer;
+width: 10vw;
+border-radius: 10px;
+}
+
+#Menu {
+    display: flex;
+    width: 40vw;
+    justify-content: space-around;
+    color: black;
+}
+
+
+#Menu a {
+    color: black;
+}
